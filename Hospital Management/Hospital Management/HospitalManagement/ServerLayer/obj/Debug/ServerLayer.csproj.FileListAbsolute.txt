@@ -1,0 +1,11 @@
+D:\Hospital Management\HospitalManagement\ServerLayer\bin\Debug\ServerLayer.dll.config
+D:\Hospital Management\HospitalManagement\ServerLayer\bin\Debug\ServerLayer.dll
+D:\Hospital Management\HospitalManagement\ServerLayer\bin\Debug\ServerLayer.pdb
+D:\Hospital Management\HospitalManagement\ServerLayer\bin\Debug\EntityFramework.dll
+D:\Hospital Management\HospitalManagement\ServerLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hospital Management\HospitalManagement\ServerLayer\bin\Debug\EntityFramework.xml
+D:\Hospital Management\HospitalManagement\ServerLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hospital Management\HospitalManagement\ServerLayer\obj\Debug\ServerLayer.csproj.CoreCompileInputs.cache
+D:\Hospital Management\HospitalManagement\ServerLayer\obj\Debug\ServerLayer.csproj.CopyComplete
+D:\Hospital Management\HospitalManagement\ServerLayer\obj\Debug\ServerLayer.dll
+D:\Hospital Management\HospitalManagement\ServerLayer\obj\Debug\ServerLayer.pdb

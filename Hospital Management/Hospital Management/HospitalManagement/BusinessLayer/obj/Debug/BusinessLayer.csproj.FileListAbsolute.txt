@@ -1,0 +1,15 @@
+D:\Hospital Management\HospitalManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\Hospital Management\HospitalManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\ServerLayer.dll
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\ServerLayer.pdb
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\ServerLayer.dll.config
+D:\Hospital Management\HospitalManagement\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Hospital Management\HospitalManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Hospital Management\HospitalManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Hospital Management\HospitalManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb

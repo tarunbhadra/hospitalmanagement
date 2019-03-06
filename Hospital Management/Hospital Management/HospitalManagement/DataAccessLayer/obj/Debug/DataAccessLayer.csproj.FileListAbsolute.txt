@@ -1,0 +1,15 @@
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\ServerLayer.dll
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\ServerLayer.pdb
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\ServerLayer.dll.config
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Hospital Management\HospitalManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hospital Management\HospitalManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\Hospital Management\HospitalManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Hospital Management\HospitalManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Hospital Management\HospitalManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Hospital Management\HospitalManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
